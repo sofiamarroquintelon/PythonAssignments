@@ -7,10 +7,10 @@ At the moment, you will find the following folders:
  
  2. "Assignment 2" : Exercises of the second session
     
- 3. "Assignment 1" : Exercises of the third session
+ 3. "Assignment 3" : Exercises of the third session
  
- 4. "Assignment 2" : Exercises of the fourth session
+ 4. "Assignment 4" : Exercises of the fourth session
     
- 5. "Assignment 1" : Exercises of the fifth session
+ 5. "Assignment 5" : Exercises of the fifth session
  
- 6. "Assignment 2" : Exercises of the six session 	
+ 6. "Assignment 6" : Exercises of the six session 	
